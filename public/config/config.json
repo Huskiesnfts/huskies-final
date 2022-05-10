@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x2A0369b02A5af89250f0848C24920e2c97D6ECA6",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2A0369b02A5af89250f0848C24920e2c97D6ECA6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Huskies NFTs",
+  "SYMBOL": "HNFTS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "WHITE_LIST_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/huskies-nfts",
+  "SHOW_BACKGROUND": true
+}
